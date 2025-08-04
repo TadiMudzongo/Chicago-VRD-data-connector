@@ -10,9 +10,9 @@ This repository contains a Tableau Web Data Connector (WDC) that allows you to i
 2. Choose **"Web Data Connector"** as your data source.
 3. Enter the following URL:
 
-   🔗 [https://tadimudzongo.github.io/Homicides-and-Non-Fatal-Shootings.html](https://tadimudzongo.github.io/Homicides-and-Non-Fatal-Shootings.html)
+   🔗 [https://tadimudzongo.github.io/Chicago-VRD-data-connector/Homicides-and-Non-Fatal-Shootings.html](https://tadimudzongo.github.io/Chicago-VRD-data-connector/Homicides-and-Non-Fatal-Shootings.html)
 
-4. Click the **"Get Shooting Data!"** button.
+4. Click the **"Get Latest Data"** button.
 5. Wait for the data to load, and start exploring in Tableau.
 
 > ℹ️ Note: Depending on your version of Tableau, you may need to allow access to external web connectors under security settings.
@@ -72,4 +72,5 @@ This project is licensed under the MIT License.
 
 Built by [Tadiwanashe Mudzongo](https://github.com/TadiMudzongo)  
 Feel free to open issues or pull requests for improvements.
+
 
