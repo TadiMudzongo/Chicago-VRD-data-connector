@@ -44,8 +44,8 @@
         ];
 
         var tableSchema = {
-            id: "chicagoNonFatalShootings",
-            alias: "Chicago Non-Fatal Shootings",
+            id: "ChicagoHomicidesandNonFatalShootings",
+            alias: "Victims of Homicides and Non-Fatal Shootings",
             columns: cols
         };
 
@@ -133,3 +133,4 @@ $(document).ready(function () {
         tableau.submit();
     });
 });
+
