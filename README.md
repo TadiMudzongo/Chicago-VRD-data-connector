@@ -24,7 +24,7 @@ This repository contains a Tableau Web Data Connector (WDC) that allows you to i
 | File                          | Description                                                        |
 |-------------------------------|--------------------------------------------------------------------|
 | `Homicides-and-Non-Fatal-Shootings.html` | The entry point for Tableau; defines the connector interface and triggers data loading. |
-| `ChicagoShootings.js`         | JavaScript logic for the Web Data Connector (schema + data fetching). |
+| `Connector-Client.js`         | JavaScript logic for the Web Data Connector (schema + data fetching). |
 | `README.md`                   | Documentation for using and understanding this connector.          |
 
 ---
@@ -72,5 +72,6 @@ This project is licensed under the MIT License.
 
 Built by [Tadiwanashe Mudzongo](https://github.com/TadiMudzongo)  
 Feel free to open issues or pull requests for improvements.
+
 
 
